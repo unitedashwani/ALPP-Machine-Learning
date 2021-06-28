@@ -1,4 +1,4 @@
-village,soil,total_sqft,density,price
+village,soil,total_sqft,density,price(*100)
 Akhtyarpur,2 index,1056,2,39.07
 Alamgirpur-Faridpur,4 index,2600,5,120
 Andawali,3 index,1440,2,62
